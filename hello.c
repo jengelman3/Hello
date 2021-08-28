@@ -1,3 +1,6 @@
+// Author: Jared Engelman
+// Date: 2021/08/27
+
 #include <stdlib.h>
 #include <stdio.h>
 
